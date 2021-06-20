@@ -1,1 +1,2 @@
-# Chaos
+# Logistic Map
+Here is a python program with creates an interactive model of famous logistic map. Logistic map is some of the first well-studied and a simple chaotic model. Beahaviour of the logistic map is extremely sensitive to initial condtions, even a change in the 16th decimal place, which is the most accurate we can get on our computers, will lead to a complete different behaviour. This is extreme sensitivity to initial conditions is the working definition of Chaos.
